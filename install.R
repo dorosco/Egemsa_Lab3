@@ -1,0 +1,5 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("sim.diffproc")
